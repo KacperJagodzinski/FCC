@@ -1,0 +1,42 @@
+#image{
+  max-width:100%;
+  display:block;
+  heigth:auto;
+  margin:auto;
+}
+#main{
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#title{
+  text-align:center;
+  font-size:40px;
+}
+#subtitle{
+  text-align:center;
+}
+#img-div{
+  background-color:white;
+  padding:10px;
+}
+#img-caption{
+  text-align:center;
+  margin:20px;
+  color:grey;
+}
+#tribute-info{
+  width:50%;
+  text-align:center;
+  margin-left:25%;
+  
+}
+#tribute-info li{
+  text-align:start;
+  margin: 10px;
+}
+#signature{
+  text-align:start;
+}
